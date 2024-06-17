@@ -1,0 +1,13 @@
+/__pycache__/
+
+/env/
+/other_files/
+.ipynb_checkpoints/
+*.pyc
+*.swp
+*.swo
+.files/
+.chainlit/
+.env
+
+*.mp4
